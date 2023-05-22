@@ -1,0 +1,15 @@
+C:\Users\actoi\OneDrive\Documentos\Igor\Dev\DIO\Aula CS\bin\Debug\net6.0\Aula CS.exe
+C:\Users\actoi\OneDrive\Documentos\Igor\Dev\DIO\Aula CS\bin\Debug\net6.0\Aula CS.deps.json
+C:\Users\actoi\OneDrive\Documentos\Igor\Dev\DIO\Aula CS\bin\Debug\net6.0\Aula CS.runtimeconfig.json
+C:\Users\actoi\OneDrive\Documentos\Igor\Dev\DIO\Aula CS\bin\Debug\net6.0\Aula CS.dll
+C:\Users\actoi\OneDrive\Documentos\Igor\Dev\DIO\Aula CS\bin\Debug\net6.0\Aula CS.pdb
+C:\Users\actoi\OneDrive\Documentos\Igor\Dev\DIO\Aula CS\obj\Debug\net6.0\Aula CS.csproj.AssemblyReference.cache
+C:\Users\actoi\OneDrive\Documentos\Igor\Dev\DIO\Aula CS\obj\Debug\net6.0\Aula CS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\actoi\OneDrive\Documentos\Igor\Dev\DIO\Aula CS\obj\Debug\net6.0\Aula CS.AssemblyInfoInputs.cache
+C:\Users\actoi\OneDrive\Documentos\Igor\Dev\DIO\Aula CS\obj\Debug\net6.0\Aula CS.AssemblyInfo.cs
+C:\Users\actoi\OneDrive\Documentos\Igor\Dev\DIO\Aula CS\obj\Debug\net6.0\Aula CS.csproj.CoreCompileInputs.cache
+C:\Users\actoi\OneDrive\Documentos\Igor\Dev\DIO\Aula CS\obj\Debug\net6.0\Aula CS.dll
+C:\Users\actoi\OneDrive\Documentos\Igor\Dev\DIO\Aula CS\obj\Debug\net6.0\refint\Aula CS.dll
+C:\Users\actoi\OneDrive\Documentos\Igor\Dev\DIO\Aula CS\obj\Debug\net6.0\Aula CS.pdb
+C:\Users\actoi\OneDrive\Documentos\Igor\Dev\DIO\Aula CS\obj\Debug\net6.0\Aula CS.genruntimeconfig.cache
+C:\Users\actoi\OneDrive\Documentos\Igor\Dev\DIO\Aula CS\obj\Debug\net6.0\ref\Aula CS.dll

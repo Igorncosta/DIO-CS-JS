@@ -1,0 +1,10 @@
+/* Fazer um programa para calcular o valor em combustivel de uma viagem */
+
+const valorgasolina = 5.15;
+const consumoKM = 12;
+const distanciaKM = 1478;
+
+const litrosConsumido = distanciaKM/consumoKM;
+console.log(litrosConsumido.toFixed(2));
+const valor = valorgasolina * litrosConsumido;
+console.log(valor.toFixed(2));

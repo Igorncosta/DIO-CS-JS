@@ -1,0 +1,15 @@
+C:\Users\actoi\OneDrive\Documentos\Igor\Dev\DIO\Aula C#, Net\bin\Debug\net6.0\Aula C#, Net.exe
+C:\Users\actoi\OneDrive\Documentos\Igor\Dev\DIO\Aula C#, Net\bin\Debug\net6.0\Aula C#, Net.deps.json
+C:\Users\actoi\OneDrive\Documentos\Igor\Dev\DIO\Aula C#, Net\bin\Debug\net6.0\Aula C#, Net.runtimeconfig.json
+C:\Users\actoi\OneDrive\Documentos\Igor\Dev\DIO\Aula C#, Net\bin\Debug\net6.0\Aula C#, Net.dll
+C:\Users\actoi\OneDrive\Documentos\Igor\Dev\DIO\Aula C#, Net\bin\Debug\net6.0\Aula C#, Net.pdb
+C:\Users\actoi\OneDrive\Documentos\Igor\Dev\DIO\Aula C#, Net\obj\Debug\net6.0\Aula C#, Net.csproj.AssemblyReference.cache
+C:\Users\actoi\OneDrive\Documentos\Igor\Dev\DIO\Aula C#, Net\obj\Debug\net6.0\Aula C#, Net.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\actoi\OneDrive\Documentos\Igor\Dev\DIO\Aula C#, Net\obj\Debug\net6.0\Aula C#, Net.AssemblyInfoInputs.cache
+C:\Users\actoi\OneDrive\Documentos\Igor\Dev\DIO\Aula C#, Net\obj\Debug\net6.0\Aula C#, Net.AssemblyInfo.cs
+C:\Users\actoi\OneDrive\Documentos\Igor\Dev\DIO\Aula C#, Net\obj\Debug\net6.0\Aula C#, Net.csproj.CoreCompileInputs.cache
+C:\Users\actoi\OneDrive\Documentos\Igor\Dev\DIO\Aula C#, Net\obj\Debug\net6.0\Aula C#, Net.dll
+C:\Users\actoi\OneDrive\Documentos\Igor\Dev\DIO\Aula C#, Net\obj\Debug\net6.0\refint\Aula C#, Net.dll
+C:\Users\actoi\OneDrive\Documentos\Igor\Dev\DIO\Aula C#, Net\obj\Debug\net6.0\Aula C#, Net.pdb
+C:\Users\actoi\OneDrive\Documentos\Igor\Dev\DIO\Aula C#, Net\obj\Debug\net6.0\Aula C#, Net.genruntimeconfig.cache
+C:\Users\actoi\OneDrive\Documentos\Igor\Dev\DIO\Aula C#, Net\obj\Debug\net6.0\ref\Aula C#, Net.dll
